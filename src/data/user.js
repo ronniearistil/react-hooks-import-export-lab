@@ -1,6 +1,6 @@
-const username = "Liza";
-const city = "New York";
+// src/data/user.js
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
-
-// export all three variables as named exports
+// Named exports for user data
+export const username = "Your Name";  // Named export
+export const city = "Your City";      // Named export
+export const image = "https://your-image-url.com";  // Named export
